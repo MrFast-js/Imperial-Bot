@@ -2,7 +2,7 @@
 
 Imperial anarchy bot made by MrFast#1000
 
-If you want to suggest a command or something else for me to add please create and issue on this repo
+If you want to suggest a command to add please create an issue here https://github.com/MrFast-js/Imperial-Bot/issues
 
 ## What can it do?
 

@@ -2,6 +2,8 @@
 
 Imperial anarchy bot made by MrFast#1000
 
+If you want to suggest a command or something else for me to add please create and issue on this repo
+
 ## What can it do?
 
 Commands in-game :

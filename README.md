@@ -3,7 +3,6 @@
 Imperial anarchy bot made by MrFast#1000
 
 ## What can it do?
-I auto accept /tpa requests so people get easy access to spawn
 
 Commands in-game :
 * !help (self explainatory)
@@ -33,3 +32,5 @@ Commands in-game :
 * !jm (your join message)
 * !lm (your leave message)
 * !jd (your joindate)
+
+I also auto accept all /tpa's
